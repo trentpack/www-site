@@ -1,0 +1,9 @@
+/* Background image */
+.sp-logo-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  max-height: 500px;
+  max-width: 700px;
+}
